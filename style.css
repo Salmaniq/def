@@ -1,0 +1,20 @@
+body{
+
+    background-image:url("images/2.jpg");
+    background-repeat: no-repeat;
+}
+
+div[class="Main-Container"]
+{
+   
+}
+div[class="fix"]
+{
+    color
+    position: fixed;
+    background-color: red;
+    top: 200px;
+    left: 400px;
+
+}
+
